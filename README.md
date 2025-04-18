@@ -1,0 +1,2 @@
+# container
+Microfrontend Host App
